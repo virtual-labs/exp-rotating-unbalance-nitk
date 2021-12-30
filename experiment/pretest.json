@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following is a forced vibration system?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Wind blowing at tree top",
+        "b": "Wind blowing at tree top",
+        "c": "Car moving on a rough road",
+        "d": "All of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the amplitude of force due to imbalance mass of 10g at a distance of 10mm rotating at 100rad/s (~950rpm) ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1N",
+        "b": "0.1N",
+        "c": "10N",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following could be governing equation for forced vibration system with imbalance mass m rotating at ω rpm at an eccentricity e ?",
+      "answers": {
+        "a": "<img src=\"./images/exp4T1.png\" style='height:auto;width:auto'/>",
+        "b": "<img src=\"./images/exp4T2.png\" style='height:auto;width:auto'/>",
+        "c": "<img src=\"./images/exp4T4.png\" style='height:auto;width:auto'/>",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "In forced vibrations usually the following are considered for analysis",
+      "answers": {
+        "a": "Steady State Vibrations",
+        "b": "Transient Vibrations",
+        "c": "Free Vibrations",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "<img src='./images/exp4Q1.png' style='height:auto;width:auto'/><br>The above equation gives the steady state amplitude for a system excited due to rotating imbalance.",
+      "answers": {
+        "a": "False",
+        "b": "True"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
