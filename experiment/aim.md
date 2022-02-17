@@ -1,1 +1,1 @@
-To observe the effect of damping in Forced Vibration of SDOF system using a Harmonic Force
+To observe the effect of damping in forced vibration of single degree of freedom due to rotating of unbalanced force
