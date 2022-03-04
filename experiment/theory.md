@@ -4,7 +4,7 @@ Rotating Unbalance is the uneven distribution of mass around an axis of rotation
 
 Unbalance in rotating machines is a common source of vibration excitation that one sees in everyday life such as vibration of automobile engine or the washing machine. One might have experienced the effect of vibration due to rotating unbalance while driven a car where the wheels are not balanced. At some particular speed the car will shake, sometimes quite violently. At this speed, the rotational speed of the wheels is such as to be close to the natural frequency of the car on its suspension, so that the amplitude becomes a maximum. This phenomena is really important because if not dealt with promptly one could have catastrophic failures due to the fatigue caused by the vibration.
 
-To study the effect of vibration due to rotating unbalance, an unbalanced rotating machine modelled as single degree spring mass damper shown in figure having an equivalent unbalance mass m rotating at frequency Ï‰ with its centre of gravity at a distance e from the axis of rotation. This results a centrifugal force proportional to the square of frequency of rotation. The centrifugal force is the maximum value of sinusoidal excitation in any direction.
+To study the effect of vibration due to rotating unbalance, an unbalanced rotating machine modelled as single degree spring mass damper shown in figure having an equivalent unbalance mass m rotating at frequency ω with its centre of gravity at a distance e from the axis of rotation. This results a centrifugal force proportional to the square of frequency of rotation. The centrifugal force is the maximum value of sinusoidal excitation in any direction.
 
 <div style="text-align:center">
 
