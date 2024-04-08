@@ -39,11 +39,11 @@ class DynamicGraph {
 
         strokeWeight(0);
         fill(0);
-        textSize(18);
+        textSize(14);
         text(this.xLabel, this.x + this.w, this.y);
         translate(this.x, this.y);
         rotate(radians(-90));
-        text(this.yLabel, 10, -20);
+        text(this.yLabel, 40, -20);
 
         pop();
 
