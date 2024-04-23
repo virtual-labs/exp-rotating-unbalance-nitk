@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "At resonance, amplification factor depends only on?",
+      "answers": {
+        "a": "damping ratio",
+        "b": "frequency ratio",
+        "c": "deflection due to static force",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "A system with 20kg mass 20N/m stiffness and 10Ns/m damping is being operated at 1rad/s if X<sub>st</sub>=2cm what is the value of X<sub>0</sub> ?",
+      "answers": {
+        "a": "2cm",
+        "b": "1cm",
+        "c": "4cm",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Phase difference between input and response at resonance is 90<sup>o</sup>",
+      "answers": {
+        "a": "true",
+        "b": "false"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Phase difference between input and response of a system was found to be π/4. With mass of system 20kg and stiffness 2N/mm if operating frequency was 5rad/s what was the damping in the system (in Ns/m)",
+      "answers": {
+        "a": "100",
+        "b": "300",
+        "c": "200",
+        "d": "400"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Amplification factor of a system was found to be 1 at resonance. What would be its damping ratio?",
+      "answers": {
+        "a": "0.5",
+        "b": "0.25",
+        "c": "0.125",
+        "d": "1"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
