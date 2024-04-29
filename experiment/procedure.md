@@ -1,17 +1,21 @@
-**AIM**:  
-To observe the effect of damping in Forced Vibration of SDOF system using a Harmonic Force
+### Procedure
 
-**PROCEDURE**:
+<div style="text-align:left">
+  Click on the Simulation icon    <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation screen. 
 
-1. Set a value of Stiffness and Mass for the system. Set a small value of damping ratio (less than half of 0.707). Notice the natural frequency of the system shown below. Set a value of rotating speed in rpm which is not very close to natural frequency. You can also set a value for unbalance which is unbalance mass times eccentricity.  
-   [<img src="./images/proc1.jpg" width="800" height="600" />](./images/proc1.jpg)
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">
 
-2. Click on the right arrow to load the graph of magnification factor and phase angle versus frequency ratio.  
-   [<img src="./images/proc2.jpg" width="800" height="600" />](./images/proc2.jpg)
+   ![Alt text](images/var2.png)
 
-3. Click on the left arrow to come back to system display screen. Increase the value of damping and observe the change in Magnification factor as shown in below images.
+   Click on Play icon <img src="images/play1.png" alt="Alt text" style="height:80px; width:80px;"> to run the simulation and click on Pause icon <img src="images/pause.png" alt="Alt text" style="height:80px; width:80px;"> to stop it.
 
-[<img src="./images/proc3.jpg" width="800" height="600" />](./images/proc3.jpg)  
-[<img src="./images/proc4.jpg" width="800" height="600" />](./images/proc4.jpg)  
-[<img src="./images/proc5.jpg" width="800" height="600" />](./images/proc5.jpg)  
-[<img src="./images/proc6.jpg" width="800" height="600" />](./images/proc6.jpg)
+   Click on the graph icon  <img src="images/graph1.png" alt="Alt text" style="height:80px; width:80px;"> to view the graph.  
+
+   ![Alt text](images/graphscreen1.png)
+
+   Click on the result icon  <img src="images/result.png" alt="Alt text" style="height:80px;width:80px;"> to view the result tab.
+  
+  ![Alt text](images/resultscreen.png)
+</div>
